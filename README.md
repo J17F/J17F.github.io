@@ -1,8 +1,7 @@
 # Informaticos con Honor
 
 
-### Pagina Informaticos con Honor
-#### Para la Materia Etica y Deontología
+### Pagina Para la Materia Etica y Deontología
 
 
 Creado por:
