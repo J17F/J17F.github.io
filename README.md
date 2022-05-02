@@ -6,6 +6,6 @@
 
 Creado por:
 
-José Gómez
-María López
-Lusandre Marcano
+José Gómez 27547101
+María López 27182207
+Lusandre Marcano 
