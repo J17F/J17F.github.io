@@ -1,11 +1,11 @@
 # Informaticos con Honor
 
 
-### Pagina Para la Materia Etica y Deontología
+### Página Para la Materia Ética y Deontología
 
 
 Creado por:
 
-José Gómez 27547101
-María López 27182207
-Lusandre Marcano 28349644
+José Gómez 27.547.101
+María López 27.182.207
+Lusandre Marcano 28.349.644
